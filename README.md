@@ -23,14 +23,8 @@ Analyze the mood of tweets in a user-friendly Jupyter Notebook! This project use
 
 1️⃣ Clone this repo.
 
-2️⃣ Install dependencies:
+2️⃣ Open the notebook:
 
 ```
-pip install -r requirements.txt
-```
-
-3️⃣ Open the notebook:
-
-```
-jupyter notebook Tweet_Sentiment_Analysis.ipynb
+jupyter notebook tweet_sentiment_analysis.ipynb
 ```
