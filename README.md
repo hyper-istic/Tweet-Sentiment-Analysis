@@ -15,7 +15,7 @@ Analyze the mood of tweets in a user-friendly Jupyter Notebook! This project use
 
 * 🐍 Python
 * 📓 Jupyter Notebook (.ipynb)
-* 📦 scikit-learn
+* 📦 SVC
 * 🐼 pandas, numpy
 * 📚 NLTK
 
